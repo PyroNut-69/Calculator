@@ -8,4 +8,4 @@ A C++ calculator with a growing amount of functions that it can do.
 
 `git clone https://github.com/PyroNut-69/Calculator`
 
-2. There are two build files `build.bat` and `build.sh` they're for your respective system, so that you can compile this.
+2. There are two build files `build.bat` and `build.sh` they're for compiling on your respective system.
