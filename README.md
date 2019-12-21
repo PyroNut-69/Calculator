@@ -1,6 +1,6 @@
 # Calculator
 
-A C++ calculator with a growing amount of functions that it can do.
+A C++ calculator with a growing amount of mathematical functions that it can do.
 
 ## How to use it
 
